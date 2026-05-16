@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proje_hastane", "proje_hastane\proje_hastane.csproj", "{6D9793DD-6E16-40D6-A45D-D558F6DCC3CA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HastaneYonetimSetup", "HastaneYonetimSetup\HastaneYonetimSetup.vdproj", "{A8251130-C57D-FC56-0E15-988B9D70C975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D9793DD-6E16-40D6-A45D-D558F6DCC3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9793DD-6E16-40D6-A45D-D558F6DCC3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9793DD-6E16-40D6-A45D-D558F6DCC3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9793DD-6E16-40D6-A45D-D558F6DCC3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8251130-C57D-FC56-0E15-988B9D70C975}.Debug|Any CPU.ActiveCfg = Debug
+		{A8251130-C57D-FC56-0E15-988B9D70C975}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F9CC5B-335B-4C47-A921-1688D1FD7C3D}
+	EndGlobalSection
+EndGlobal
